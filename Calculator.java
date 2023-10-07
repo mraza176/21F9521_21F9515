@@ -15,7 +15,7 @@ public class Calculator {
 		
 		System.out.println(calc.add(3, 5));
 		
-		System.out.println(calc.sub(8, 5));
+		System.out.println(calc.sub(10, 5));
 	}
 
 }
